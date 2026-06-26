@@ -478,4 +478,4 @@ Use for simple SAFE or low-risk MODIFYING tasks only.
 Include:
 - What changed
 - Verified vs assumed
-- Next step(edited)
+- Next steps
